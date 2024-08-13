@@ -1,9 +1,11 @@
-        body {
+@media only screen and (max-width: 600px) {
+
+body {
             color: hsl(209, 61%, 16%);
             background: #fff;
             ;
         }
-
+}
         .card {
             height: 500px;
             position: relative;
